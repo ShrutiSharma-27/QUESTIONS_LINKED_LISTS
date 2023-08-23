@@ -57,3 +57,15 @@ public class LinkedList_to_StackAdapter {
         System.out.println(stack.Pop());
     }
 }
+
+// Output :
+
+// 0
+// 10
+// 10
+// 1
+// 5
+// Stack Underflow
+// -1
+// Stack Underflow
+// -1
