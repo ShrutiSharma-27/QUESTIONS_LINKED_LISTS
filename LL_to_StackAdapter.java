@@ -40,7 +40,7 @@ class Stack{
     }
 }
 
-public class LinkedList_to_StackAdapter {
+public class LL_to_StackAdapter {
     public static void main(String[] args) {
         Stack stack = new Stack();
         System.out.println(stack.Size());
