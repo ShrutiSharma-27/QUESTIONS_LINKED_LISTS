@@ -31,7 +31,7 @@ class Stack{
         else return list.removeFirst();
     }
 
-    int Top(){
+    int Top(){ //can also named as Peek
         if (list.size()==0){
             System.out.println("Stack Underflow");
             return -1;
